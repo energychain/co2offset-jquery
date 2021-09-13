@@ -1,0 +1,24 @@
+{
+  "name": "co2offset-jquery",
+  "version": "1.0.0",
+  "description": "JQuery Extension that allows to quickly insert managed CO2 Offset badge into your website",
+  "main": "co2offset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energychain/co2offset-jquery.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "co2offset",
+    "badge"
+  ],
+  "author": "STROMDAO GmbH <kontakt@stromdao.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/energychain/co2offset-jquery/issues"
+  },
+  "homepage": "https://github.com/energychain/co2offset-jquery#readme"
+}
